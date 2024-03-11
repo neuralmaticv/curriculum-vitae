@@ -1,2 +1,7 @@
 .config/*
 docs/*
+**/*.aux
+**/*.log
+**/*.out
+**/*.toc
+**/*.synctex.gz
